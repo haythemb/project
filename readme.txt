@@ -1,6 +1,5 @@
-/**
-* Git Essentials
-*
-*/
 
-All rights reserved.
+Git Essentials
+
+All rights reserved. May 2012
+
