@@ -3,4 +3,4 @@
 *
 */
 
-Added a line
+All rights reserved.
