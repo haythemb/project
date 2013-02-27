@@ -1,2 +1,3 @@
 learn to commit (Done)
 learn to ignore files (Done)
+edit from github (Done)
