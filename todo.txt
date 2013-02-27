@@ -1,2 +1,2 @@
 learn to commit (Done)
-learn to ignore files
+learn to ignore files (Done)
